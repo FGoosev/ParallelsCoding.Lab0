@@ -1,5 +1,6 @@
 namespace ParallelsCoding.Lab1;
 //Easy
+
 public class SecondTask
 {
     public bool IsPalindrome(int x) {

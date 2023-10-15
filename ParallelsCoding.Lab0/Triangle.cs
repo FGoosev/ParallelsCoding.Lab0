@@ -1,5 +1,6 @@
 namespace ParallelsCoding.Lab1;
 //Medium
+//Нахождение кратчайшего пути в треугольнике.
 public class Triangle
 {
     public int MinimumTotal(IList<IList<int>> triangle) {

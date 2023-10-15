@@ -1,5 +1,6 @@
 namespace ParallelsCoding.Lab1;
 //Easy
+//Вернуть индексы чисел из массива, сумма которых равна числу target
 public class FirstTask
 {
     public int[] TwoSum(int[] nums, int target) {
